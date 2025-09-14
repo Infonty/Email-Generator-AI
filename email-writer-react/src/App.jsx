@@ -62,7 +62,7 @@ function App() {
             onClick={handleSubmit}
             disabled={!emailContent || loading}
             fullWidth>
-            {loading ? <CircularProgress size={24}/> : "Generate Reply"}
+            {loading ? <CircularProgress size={24}/> : "Generate Reply With AI"}
           </Button>
       </Box>
 

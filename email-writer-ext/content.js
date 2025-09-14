@@ -114,7 +114,6 @@ const observer = new MutationObserver((mutations) => {
     }
 });
 
-
 observer.observe(document.body, {
     childList: true,
     subtree: true
