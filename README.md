@@ -1,24 +1,34 @@
-# Email Writer AI - Spring Boot Project
+# 📧 Email Writer AI - Spring Boot Project
 
-An AI-powered email response generator built using Java Spring Boot and Spring AI to automate and enhance email communication.
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7-green?logo=springboot)
+![Maven](https://img.shields.io/badge/Maven-3.8-blue?logo=apachemaven)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## Features
+---
 
-- Generates context-aware email replies using advanced AI language models.
-- Supports selectable tone options for personalized replies.
-- Provides RESTful APIs for seamless backend integration.
-- Compatible with frontend integration and Chrome extension for real-time email responses.
-- Robust error handling and modular architecture for scalability and maintainability.
+> An AI-powered email response generator built using **Java Spring Boot** and **Spring AI**, designed to automate and enhance your email communication effortlessly.
 
-## Getting Started
+---
+
+## ✨ Features
+
+- 🤖 Context-aware email reply generation using advanced AI language models  
+- 🎭 Customizable response tone (formal, casual, etc.)  
+- 🔌 RESTful APIs enabling easy backend integration  
+- 🖥️ Ready for frontend & Chrome extension real-time integration  
+- 🚀 Modular, scalable backend architecture with robust error handling
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
-- Java 17 or higher
-- Maven or Gradle build tool
-- Internet connection for AI API access
-- (Optional) IDE like IntelliJ IDEA or Eclipse
+- ☕ Java 17 or higher  
+- 🛠️ Maven or Gradle  
+- 🌐 Internet connection for AI API access  
+- 🖥️ IDE (Recommend IntelliJ IDEA or Eclipse)
 
 ### Installation & Setup
 
-1. Clone this repository:
